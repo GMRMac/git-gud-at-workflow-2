@@ -1,0 +1,29 @@
+{
+  "name": "git-gud-at-workflow-2",
+  "version": "1.0.0",
+  "description": "Course assignment",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMRMac/git-gud-at-workflow-2.git"
+  },
+  "author": "Marius J. Davidsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMRMac/git-gud-at-workflow-2/issues"
+  },
+  "homepage": "https://github.com/GMRMac/git-gud-at-workflow-2#readme",
+  "dependencies": {
+    "grunt-contrib-imagemin": "^3.1.0"
+  }
+}
